@@ -1,0 +1,14 @@
+C:\Users\MinyurovEvgeniy\Documents\DeveloperWindows\Desktop\ConsoleDialog\DialogApp\bin\Debug\net8.0\DialogApp.exe
+C:\Users\MinyurovEvgeniy\Documents\DeveloperWindows\Desktop\ConsoleDialog\DialogApp\bin\Debug\net8.0\DialogApp.deps.json
+C:\Users\MinyurovEvgeniy\Documents\DeveloperWindows\Desktop\ConsoleDialog\DialogApp\bin\Debug\net8.0\DialogApp.runtimeconfig.json
+C:\Users\MinyurovEvgeniy\Documents\DeveloperWindows\Desktop\ConsoleDialog\DialogApp\bin\Debug\net8.0\DialogApp.dll
+C:\Users\MinyurovEvgeniy\Documents\DeveloperWindows\Desktop\ConsoleDialog\DialogApp\bin\Debug\net8.0\DialogApp.pdb
+C:\Users\MinyurovEvgeniy\Documents\DeveloperWindows\Desktop\ConsoleDialog\DialogApp\obj\Debug\net8.0\DialogApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MinyurovEvgeniy\Documents\DeveloperWindows\Desktop\ConsoleDialog\DialogApp\obj\Debug\net8.0\DialogApp.AssemblyInfoInputs.cache
+C:\Users\MinyurovEvgeniy\Documents\DeveloperWindows\Desktop\ConsoleDialog\DialogApp\obj\Debug\net8.0\DialogApp.AssemblyInfo.cs
+C:\Users\MinyurovEvgeniy\Documents\DeveloperWindows\Desktop\ConsoleDialog\DialogApp\obj\Debug\net8.0\DialogApp.csproj.CoreCompileInputs.cache
+C:\Users\MinyurovEvgeniy\Documents\DeveloperWindows\Desktop\ConsoleDialog\DialogApp\obj\Debug\net8.0\DialogApp.dll
+C:\Users\MinyurovEvgeniy\Documents\DeveloperWindows\Desktop\ConsoleDialog\DialogApp\obj\Debug\net8.0\refint\DialogApp.dll
+C:\Users\MinyurovEvgeniy\Documents\DeveloperWindows\Desktop\ConsoleDialog\DialogApp\obj\Debug\net8.0\DialogApp.pdb
+C:\Users\MinyurovEvgeniy\Documents\DeveloperWindows\Desktop\ConsoleDialog\DialogApp\obj\Debug\net8.0\DialogApp.genruntimeconfig.cache
+C:\Users\MinyurovEvgeniy\Documents\DeveloperWindows\Desktop\ConsoleDialog\DialogApp\obj\Debug\net8.0\ref\DialogApp.dll
